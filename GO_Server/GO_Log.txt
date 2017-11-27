@@ -1,0 +1,7675 @@
+-== Gothic Online Server 0.4.4a ==-
+[error] Config file doesn't exist
+
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[connection] 127.0.0.1_65002 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[connection] 127.0.0.1_65002 is trying to connect, index : 0
+[info] Sending server information to launcher...
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[connection] 127.0.0.1_54657 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_61617 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|61617
+[join] Sative has joined the server 127.0.0.1|61617
+[connection] Sative lost connection with the server 127.0.0.1|61617
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[connection] 127.0.0.1_54657 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_56267 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|56267
+[join] Sative has joined the server 127.0.0.1|56267
+[connection] Sative lost connection with the server 127.0.0.1|56267
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_62790 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|62790
+[join] Sative has joined the server 127.0.0.1|62790
+[connection] Sative disconnected from server 127.0.0.1|62790
+[connection] 127.0.0.1_54657 is trying to connect, index : 0
+[info] Sending server information to launcher...
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[connection] 127.0.0.1_51104 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_49518 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|49518
+[join] Sative has joined the server 127.0.0.1|49518
+[connection] Sative disconnected from server 127.0.0.1|49518
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_49318 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|49318
+[join] Sative has joined the server 127.0.0.1|49318
+[connection] Sative disconnected from server 127.0.0.1|49318
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_60661 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|60661
+[join] Sative has joined the server 127.0.0.1|60661
+[connection] Sative disconnected from server 127.0.0.1|60661
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_60437 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|60437
+[join] Sative has joined the server 127.0.0.1|60437
+[connection] Sative disconnected from server 127.0.0.1|60437
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_55933 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|55933
+[join] Sative has joined the server 127.0.0.1|55933
+[connection] Sative disconnected from server 127.0.0.1|55933
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_54549 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|54549
+[join] Sative has joined the server 127.0.0.1|54549
+[connection] Sative disconnected from server 127.0.0.1|54549
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_59432 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|59432
+[join] Sative has joined the server 127.0.0.1|59432
+[connection] Sative disconnected from server 127.0.0.1|59432
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[connection] 127.0.0.1_54070 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_53921 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|53921
+[join] Sative has joined the server 127.0.0.1|53921
+[chat] Sative: test
+[connection] Sative disconnected from server 127.0.0.1|53921
+[connection] 127.0.0.1_54070 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_58749 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|58749
+[join] Sative has joined the server 127.0.0.1|58749
+[chat] Sative: test
+[connection] Sative disconnected from server 127.0.0.1|58749
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_58750 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|58750
+[join] Sative has joined the server 127.0.0.1|58750
+[connection] Sative disconnected from server 127.0.0.1|58750
+-== Gothic Online Server 0.4.4a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_55396 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|55396
+[join] Sative has joined the server 127.0.0.1|55396
+[chat] Sative: test
+[connection] Sative disconnected from server 127.0.0.1|55396
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_52223 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|52223
+[join] Sative has joined the server 127.0.0.1|52223
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_58414 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|58414
+[join] Sative has joined the server 127.0.0.1|58414
+[connection] Sative lost connection with the server 127.0.0.1|58414
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[connection] 127.0.0.1_55642 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_55647 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|55647
+[join] Sative has joined the server 127.0.0.1|55647
+[connection] 127.0.0.1_55642 is trying to connect, index : 1
+[info] Sending server information to launcher...
+[connection] 25.107.157.37_55642 is trying to connect, index : 1
+[info] Sending server information to launcher...
+[connection] 25.108.142.35_49167 is trying to connect, index : 1
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[chat] Sative: ja jebie
+[Downloader] Peer disconnected.
+[connection] 25.108.142.35_52996 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|52996
+[join] (C)DualFist has joined the server 25.108.142.35|52996
+[connection] Sative disconnected from server 127.0.0.1|55647
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_56927 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|56927
+[join] Sative has joined the server 127.0.0.1|56927
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[Downloader] New connection!
+[connection] 127.0.0.1_54357 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|54357
+[join] Sative has joined the server 127.0.0.1|54357
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_57139 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|57139
+[join] Sative has joined the server 127.0.0.1|57139
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_56018 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|56018
+[join] Sative has joined the server 127.0.0.1|56018
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_52540 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|52540
+[join] Sative has joined the server 127.0.0.1|52540
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_64698 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|64698
+[join] Sative has joined the server 127.0.0.1|64698
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 25.108.142.35_57963 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|57963
+[join] (C)DualFist has joined the server 25.108.142.35|57963
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[Downloader] New connection!
+[connection] 127.0.0.1_60826 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|60826
+[join] Sative has joined the server 127.0.0.1|60826
+[Downloader] Peer disconnected.
+[connection] 25.108.142.35_59815 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|59815
+[join] (C)DualFist has joined the server 25.108.142.35|59815
+1
+1
+1
+1
+1
+1
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[Downloader] New connection!
+[connection] 127.0.0.1_56074 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|56074
+[join] Sative has joined the server 127.0.0.1|56074
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_55642 is trying to connect, index : 1
+[info] Sending server information to launcher...
+[connection] 25.108.142.35_56359 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|56359
+[join] (C)DualFist has joined the server 25.108.142.35|56359
+[chat] Sative: no
+[chat] Sative: git
+[chat] (C)DualFist: ale jjebnie xD
+[chat] Sative: bimbol zapomnial zmienic watku przy jednej rzeczy xd
+[chat] Sative: juz nie
+[chat] (C)DualFist: e
+[connection] Sative disconnected from server 127.0.0.1|56074
+[chat] (C)DualFist: bug 1hp
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[connection] 127.0.0.1_55642 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_58062 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|58062
+[join] Sative has joined the server 127.0.0.1|58062
+[Downloader] Peer disconnected.
+[connection] 25.108.142.35_53739 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|53739
+[join] (C)DualFist has joined the server 25.108.142.35|53739
+[chat] Sative: ok
+[chat] Sative: XD
+[connection] Sative disconnected from server 127.0.0.1|58062
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[connection] 127.0.0.1_55642 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_64212 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|64212
+[join] Sative has joined the server 127.0.0.1|64212
+[Downloader] Peer disconnected.
+[connection] 25.108.142.35_64394 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|64394
+[join] (C)DualFist has joined the server 25.108.142.35|64394
+[connection] Sative disconnected from server 127.0.0.1|64212
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_51054 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|51054
+[join] Sative has joined the server 127.0.0.1|51054
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 25.108.142.35_63966 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|63966
+[join] (C)DualFist has joined the server 25.108.142.35|63966
+[connection] Sative disconnected from server 127.0.0.1|51054
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_62182 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|62182
+[join] Sative has joined the server 127.0.0.1|62182
+[connection] 25.108.142.35_52977 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|52977
+[join] (C)DualFist has joined the server 25.108.142.35|52977
+[connection] Sative disconnected from server 127.0.0.1|62182
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[Downloader] New connection!
+[connection] 127.0.0.1_60445 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|60445
+[join] Sative has joined the server 127.0.0.1|60445
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+[Downloader] Peer disconnected.
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - Sative
+[connection] 25.108.142.35_61315 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|61315
+[join] (C)DualFist has joined the server 25.108.142.35|61315
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - Sative
+ LOOP LOL 
+CTO - (C)DualFist
+[connection] Sative disconnected from server 127.0.0.1|60445
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+CTO - (C)DualFist
+ LOOP LOL 
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[Downloader] New connection!
+[connection] 127.0.0.1_62716 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|62716
+[join] Sative has joined the server 127.0.0.1|62716
+[Downloader] Peer disconnected.
+[connection] 25.108.142.35_61396 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|61396
+[join] (C)DualFist has joined the server 25.108.142.35|61396
+[chat] (C)DualFist: ja jesteem jbc
+[connection] Sative disconnected from server 127.0.0.1|62716
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[Downloader] New connection!
+[connection] 127.0.0.1_61714 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|61714
+[join] Sative has joined the server 127.0.0.1|61714
+[Downloader] Peer disconnected.
+[connection] 25.108.142.35_54819 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|54819
+[join] (C)DualFist has joined the server 25.108.142.35|54819
+[connection] Sative disconnected from server 127.0.0.1|61714
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[Downloader] New connection!
+[connection] 127.0.0.1_59140 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|59140
+[join] Sative has joined the server 127.0.0.1|59140
+[Downloader] Peer disconnected.
+[connection] Sative disconnected from server 127.0.0.1|59140
+[connection] 25.108.142.35_60787 is trying to connect, index : 0
+[connection] Incoming connection: 25.108.142.35|60787
+[join] (C)DualFist has joined the server 25.108.142.35|60787
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_63995 is trying to connect, index : 1
+[connection] Incoming connection: 127.0.0.1|63995
+[join] Sative has joined the server 127.0.0.1|63995
+[connection] Sative disconnected from server 127.0.0.1|63995
+[connection] 127.0.0.1_55642 is trying to connect, index : 1
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_51219 is trying to connect, index : 1
+[connection] Incoming connection: 127.0.0.1|51219
+[join] Sative has joined the server 127.0.0.1|51219
+[chat] Sative: so
+[chat] Sative: nauka na przysz³oœæ : nigdy nie odk³adaæ pracy na pare miesiecy w przód
+[chat] (C)DualFist: hehe
+[chat] Sative: eraz tylko te zbugowane hp poprawie ;d
+[chat] Sative: no
+[chat] (C)DualFist: hahah
+[chat] Sative: takze mozesz wyjsc
+[connection] Sative disconnected from server 127.0.0.1|51219
+[connection] (C)DualFist disconnected from server 25.108.142.35|60787
+[connection] 127.0.0.1_55642 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_64521 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|64521
+[join] Sative has joined the server 127.0.0.1|64521
+[Downloader] New connection!
+[chat] Sative: xd
+[Downloader] Peer disconnected.
+[chat] Sative: doopa
+[connection] 25.108.142.35_60675 is trying to connect, index : 1
+[connection] Incoming connection: 25.108.142.35|60675
+[join] (C)DualFist has joined the server 25.108.142.35|60675
+[chat] Sative: widzisz
+[chat] Sative: plynnie jest teraz
+[chat] (C)DualFist: ale dalej 1hp xd
+[chat] Sative: ja mam 10
+[chat] Sative: 10/40
+[chat] (C)DualFist: ja cos mam 1 xd
+[chat] Sative: no ale to nie jest 1hp bug XD
+[chat] Sative: po prostu ustalilismy ze po respie postac powinna miec 1hp
+[chat] Sative: 1hp bug polegal na tym ze
+[chat] (C)DualFist: aha i wszystko jasne
+[chat] Sative: miales 0hp
+[chat] Sative: u innego gracza miales 1hp
+[chat] Sative: a pomimo to go pizgales
+[chat] Sative: tu sie tak nie da
+[chat] (C)DualFist: kk
+[chat] Sative: kurwa, mam ochote na cini-minis
+[chat] Sative: mozesz wyjsc ;d
+[chat] (C)DualFist: Xd
+[connection] (C)DualFist disconnected from server 25.108.142.35|60675
+[connection] Sative disconnected from server 127.0.0.1|64521
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[connection] 127.0.0.1_59507 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_49628 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|49628
+[join] Sative has joined the server 127.0.0.1|49628
+[debug] Player dll hash: b2b410288ca298f5b7d84c87715e8663
+[connection] Sative disconnected from server 127.0.0.1|49628
+-== Gothic Online Server 0.4.5a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.6a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[connection] 127.0.0.1_56240 is trying to connect, index : 0
+[info] Sending server information to launcher...
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_57922 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|57922
+[join] Sative has joined the server 127.0.0.1|57922
+[connection] Sative disconnected from server 127.0.0.1|57922
+-== Gothic Online Server 0.4.6a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_51559 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|51559
+[join] Sative has joined the server 127.0.0.1|51559
+[debug] Player dll hash: f7db305af405e4e3b2326aa84a01c39b
+[connection] Sative disconnected from server 127.0.0.1|51559
+-== Gothic Online Server 0.4.6a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+[Downloader] New connection!
+[Downloader] Peer disconnected.
+[connection] 127.0.0.1_61945 is trying to connect, index : 0
+[connection] Incoming connection: 127.0.0.1|61945
+[join] Sative has joined the server 127.0.0.1|61945
+[connection] Sative disconnected from server 127.0.0.1|61945
+-== Gothic Online Server 0.4.6a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
+-== Gothic Online Server 0.4.6a ==-
+[info] Config file found
+[config] Server name: Default server name
+[config] Server port: 28970
+[config] Max slots: 32
+[config] Client script: client-main.gm
+[config] Server script: server-main.gm
+[info] Loading scripts...
+[info] Starting network...
+[info] Listening for connections on 192.168.0.2:28970...
+[info] Listening for connections on 25.107.157.37:28970...
+[Downloader] Number of files to download: 0
+[Downloader] Thread started, waiting for peers..
